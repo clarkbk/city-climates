@@ -1,4 +1,4 @@
-Given a set of U.S. cities (i.e. weather stations) and climate measures, scrapes monthly 1981-2010 climate normals from the NOAA's National Centers for Environmental Information (NCEI).
+Given a set of U.S. cities (i.e. weather stations) and climate measures, scrape monthly 1981-2010 climate normals from the NOAA's National Centers for Environmental Information (NCEI).
 
 ## Installation
 
